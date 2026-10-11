@@ -54,9 +54,9 @@ This project is a comprehensive data analysis of an e-commerce dataset using **M
 
 ## 🧠 Author
 
-MD. Ashiqur Rahmna Khan 
+Md. Ashiqur Rahman Khan  
 📘 *Undergraduate in Statistics | Aspiring Data Analyst & Deep Learning Engineer*  
-[LinkedIn](https://linkedin.com/in/yourprofile) 
+[LinkedIn](https://www.linkedin.com/in/md-ashiqur-rahman-khan-b475b1316/)
 
 ---
 
